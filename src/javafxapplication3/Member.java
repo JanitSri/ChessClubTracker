@@ -1,7 +1,3 @@
-// Janit Sriganeshaelankovan 101229102
-// Shelton Dmello 101186743
-// Saif Bakhtaria 101028504
-
 package javafxapplication3;
 
 
