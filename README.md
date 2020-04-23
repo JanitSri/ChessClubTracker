@@ -6,5 +6,5 @@ Track Members for a tournment:
   *Win Percentage
   *Games Played
 
-![Screenshot](capture.png)
+![Screenshot](capture.PNG)
 
